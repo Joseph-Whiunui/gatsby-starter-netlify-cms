@@ -52,6 +52,7 @@ collections:
           - {
               label: Mainpitch,
               name: mainpitch,
+              create: true,
               widget: object,
               fields:
                 [
